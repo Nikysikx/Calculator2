@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         numberField.setText("0");
     }
 
-    //fvkgjgjhgjhgjkgjhgjhgjh
+    //fvkgjgjhgjhgjkgjhgjhgjhxbvcbxcvbx
     public void operClick(View view) {
         String s = "";
         String numberFieldText = numberField.getText().toString();
